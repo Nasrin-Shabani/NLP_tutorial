@@ -1,7 +1,7 @@
 # Introduction to NLP
 
 <p align="center">
-  <img src="bigdatasociety.jfif" alt="Image Description" width="50%">
+  <img src="bigdatasociety.jfif" alt="Image Description" width="30%">
 </p>
 
 This repository contains the Python notebook for the "Introduction to NLP" workshop led by Dr. Maryam Khanian Najafabadi from the University of Sydney.
